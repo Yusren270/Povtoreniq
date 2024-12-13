@@ -1,7 +1,0 @@
-C:\Users\1409-6\Desktop\Юсрен 9а\faktorel\bin\Debug\faktorel.exe.config
-C:\Users\1409-6\Desktop\Юсрен 9а\faktorel\bin\Debug\faktorel.exe
-C:\Users\1409-6\Desktop\Юсрен 9а\faktorel\bin\Debug\faktorel.pdb
-C:\Users\1409-6\Desktop\Юсрен 9а\faktorel\obj\Debug\faktorel.csproj.AssemblyReference.cache
-C:\Users\1409-6\Desktop\Юсрен 9а\faktorel\obj\Debug\faktorel.csproj.CoreCompileInputs.cache
-C:\Users\1409-6\Desktop\Юсрен 9а\faktorel\obj\Debug\faktorel.exe
-C:\Users\1409-6\Desktop\Юсрен 9а\faktorel\obj\Debug\faktorel.pdb
