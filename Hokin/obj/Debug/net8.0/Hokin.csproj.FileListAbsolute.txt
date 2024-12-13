@@ -1,0 +1,14 @@
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\bin\Debug\net8.0\Hokin.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\bin\Debug\net8.0\Hokin.deps.json
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\bin\Debug\net8.0\Hokin.runtimeconfig.json
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\bin\Debug\net8.0\Hokin.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\bin\Debug\net8.0\Hokin.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\Hokin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\Hokin.AssemblyInfoInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\Hokin.AssemblyInfo.cs
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\Hokin.csproj.CoreCompileInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\Hokin.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\refint\Hokin.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\Hokin.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\Hokin.genruntimeconfig.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\Hokin\obj\Debug\net8.0\ref\Hokin.dll
